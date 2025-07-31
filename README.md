@@ -1,6 +1,6 @@
 Case Study: Alert Handling 
 
-Problem Statement: Alert handling 
+Problem Statement:
 1. Handle the alert when user clicks on "Sign in" button without filling any information
 2. Handle alert when user clicks on "Forgot Password" link Suggested site: https://mail .rediff.com/cgi-bin/login.cgi
       
@@ -14,10 +14,10 @@ Problem Statement: Alert handling
       
        Key Automation Scope: Automation Concepts,
                              Selenium Configuration,
-                             Web driver Basics
-                             Object Identification
-                             Page Navigation
-                             Form Registration Basic
-                             Reusable method creation
+                             Web driver Basics,
+                             Object Identification,
+                             Page Navigation,
+                             Form Registration Basic,
+                             Reusable method creation,
                              Alert and Window Handling Driver setup and
                              browser capabilities Test validation
